@@ -1,0 +1,1 @@
+@start D:\eclipse\sts-bundle\sts-3.9.0.RELEASE\STS.exe

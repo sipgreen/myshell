@@ -1,0 +1,2 @@
+alias A  B
+alias brancp fsfsdf

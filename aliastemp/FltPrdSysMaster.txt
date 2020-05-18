@@ -1,0 +1,1 @@
+git clone ssh://zhangcq@code.ctripcorp.com:29418/Flight/Product/FltPrdSys FltPrdSysZcq && scp -p -P 29418 zhangcq@code.ctripcorp.com:hooks/commit-msg FltPrdSysZcq/.git/hooks/
