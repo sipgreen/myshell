@@ -11,7 +11,8 @@
 @set ProgramDir=C:\Program Files
 @set DProgramDir=D:\Program Files
 @set JetBHOME=%DProgramDir%\JetBrains
-@set IDEA_HOME=%DProgramDir%\JetBrains\IntelliJ IDEA 2017.3.5\bin\
+@set IDEA_HOME=%DProgramDir%\JetBrains\IntelliJ IDEA 2018.3.1\bin\
+@rem @set IDEA_HOME=%DProgramDir%\JetBrains\IntelliJ IDEA 2017.3.5\bin\
 @set NGINX_HOME=%DProgramDir%\nginx-1.8.1\
 @set APP_LOCAL=C:\Users\SamZhang\AppData\Local\
 @set BCMP=C:\Program Files (x86)\Beyond Compare 3

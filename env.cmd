@@ -15,7 +15,7 @@ set BCP_HOME=C:\program files (x86)\Beyond Compare 3
 set MONGO_HOME=C:\Program Files\MongoDB\Server\4.0
 set NGINX_HOME=c:\Program Files\nginx-1.8.1
 
-set path=%maven_home%\bin;%path%;%~dp0;%NPD_HOME%\;%BCP_HOME%\;%JAVA_HOME%\bin;%JRE_HOME%\bin;%GIT_HOME%\bin\;%PY%\;%mysql%\bin\;%MONGO_HOME%\bin;%NGINX_HOME%\;%PG_HOME%\ffmpeg-win64-static\bin
+set path=%maven_home%\bin;%path%;%~dp0;%NPD_HOME%\;%BCP_HOME%\;%JAVA_HOME%\bin;%JRE_HOME%\bin;%GIT_HOME%\bin\;%PY%\;%mysql%\bin\;%MONGO_HOME%\bin;%NGINX_HOME%\;%PG_HOME%\ffmpeg-win64-static\bin;C:\Program Files\Git\usr\bin\
 
 @cd /d D:\Git
 
